@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # xiaohongshu-comment-leads
 
 **小红书评论引流方法论（脱敏版）：怎么在评论区软广不被删。**
